@@ -5,7 +5,7 @@ import io
 import google.generativeai as genai
 from utils.notifications import display_notification
 # Initialize Gemini API
-genai.configure(api_key="AIzaSyBhbAu6Fc2v7D92eR5NnxzfCosLEv59Y_Y")
+#genai.configure(api_key="")
 
 # Create the model configuration
 generation_config = {
